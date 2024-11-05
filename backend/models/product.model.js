@@ -1,4 +1,4 @@
-import mongoose from  'mongose';
+import mongoose from  'mongoose';
 
 const productSchema = new mongoose.Schema({
     name:{
